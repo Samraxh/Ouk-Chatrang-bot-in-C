@@ -1,5 +1,0 @@
-e6e5 e5d4 c6c5 b8d7 g8e7 f8f7 f6f5
-e6e5 f8f7 e5d4 f7e6 g8e7 d6d5 b8d7 d8c7 c7d6 c8c7 e8f7 c4c5
-e6e5 f8f7 f7e6 e5d4 g8e7 b8d7 e6e5 f6f5 g6f5 e7g6 e5e4 f5e4 d7f6 e8d7 h8e8 c8b7 g6e7 d6d5 d8c7 c7d6
-e6e5 f8f7 f7e6 e5d4 g8e7 b8d7 e6e5 f6f5 g6f5 e7g6 e5d4 d7f6 c8d7 d7e6 d8c7 h6h5
-e6e5 f8f7 f7e6 e5d4 g8e7 b8d7 e6e5 f6f5 g6f5 e5d4 d7f6 c8d7 f5e7 d7e6 d8c7
